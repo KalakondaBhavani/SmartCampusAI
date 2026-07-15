@@ -1,0 +1,282 @@
+[
+    {
+        "date": "2026-07-10",
+        "student_id": "STU101",
+        "student_name": "Alice Johnson",
+        "class_name": "CS101",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-10",
+        "student_id": "STU102",
+        "student_name": "Bob Smith",
+        "class_name": "IT202",
+        "status": "Excused"
+    },
+    {
+        "date": "2026-07-10",
+        "student_id": "STU103",
+        "student_name": "Charlie Brown",
+        "class_name": "ECE303",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-10",
+        "student_id": "STU104",
+        "student_name": "Diana Prince",
+        "class_name": "CS101",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-10",
+        "student_id": "STU105",
+        "student_name": "Ethan Hunt",
+        "class_name": "ME404",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-10",
+        "student_id": "STU106",
+        "student_name": "Fiona Gallagher",
+        "class_name": "BA505",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-10",
+        "student_id": "STU107",
+        "student_name": "George Cooper",
+        "class_name": "ECE303",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-10",
+        "student_id": "STU108",
+        "student_name": "Hannah Abbott",
+        "class_name": "CS101",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU101",
+        "student_name": "Alice Johnson",
+        "class_name": "CS101",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU102",
+        "student_name": "Bob Smith",
+        "class_name": "IT202",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU103",
+        "student_name": "Charlie Brown",
+        "class_name": "ECE303",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU104",
+        "student_name": "Diana Prince",
+        "class_name": "CS101",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU105",
+        "student_name": "Ethan Hunt",
+        "class_name": "ME404",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU106",
+        "student_name": "Fiona Gallagher",
+        "class_name": "BA505",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU107",
+        "student_name": "George Cooper",
+        "class_name": "ECE303",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU108",
+        "student_name": "Hannah Abbott",
+        "class_name": "CS101",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU101",
+        "student_name": "Alice Johnson",
+        "class_name": "CS101",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU102",
+        "student_name": "Bob Smith",
+        "class_name": "IT202",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU103",
+        "student_name": "Charlie Brown",
+        "class_name": "ECE303",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU104",
+        "student_name": "Diana Prince",
+        "class_name": "CS101",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU105",
+        "student_name": "Ethan Hunt",
+        "class_name": "ME404",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU106",
+        "student_name": "Fiona Gallagher",
+        "class_name": "BA505",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU107",
+        "student_name": "George Cooper",
+        "class_name": "ECE303",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU108",
+        "student_name": "Hannah Abbott",
+        "class_name": "CS101",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-13",
+        "student_id": "STU101",
+        "student_name": "Alice Johnson",
+        "class_name": "CS101",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-13",
+        "student_id": "STU102",
+        "student_name": "Bob Smith",
+        "class_name": "IT202",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-13",
+        "student_id": "STU103",
+        "student_name": "Charlie Brown",
+        "class_name": "ECE303",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-13",
+        "student_id": "STU104",
+        "student_name": "Diana Prince",
+        "class_name": "CS101",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-13",
+        "student_id": "STU105",
+        "student_name": "Ethan Hunt",
+        "class_name": "ME404",
+        "status": "Excused"
+    },
+    {
+        "date": "2026-07-13",
+        "student_id": "STU106",
+        "student_name": "Fiona Gallagher",
+        "class_name": "BA505",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-13",
+        "student_id": "STU107",
+        "student_name": "George Cooper",
+        "class_name": "ECE303",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-13",
+        "student_id": "STU108",
+        "student_name": "Hannah Abbott",
+        "class_name": "CS101",
+        "status": "Excused"
+    },
+    {
+        "date": "2026-07-14",
+        "student_id": "STU101",
+        "student_name": "Alice Johnson",
+        "class_name": "CS101",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-14",
+        "student_id": "STU102",
+        "student_name": "Bob Smith",
+        "class_name": "IT202",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-14",
+        "student_id": "STU103",
+        "student_name": "Charlie Brown",
+        "class_name": "ECE303",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-14",
+        "student_id": "STU104",
+        "student_name": "Diana Prince",
+        "class_name": "CS101",
+        "status": "Excused"
+    },
+    {
+        "date": "2026-07-14",
+        "student_id": "STU105",
+        "student_name": "Ethan Hunt",
+        "class_name": "ME404",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-14",
+        "student_id": "STU106",
+        "student_name": "Fiona Gallagher",
+        "class_name": "BA505",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-14",
+        "student_id": "STU107",
+        "student_name": "George Cooper",
+        "class_name": "ECE303",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-14",
+        "student_id": "STU108",
+        "student_name": "Hannah Abbott",
+        "class_name": "CS101",
+        "status": "Excused"
+    }
+]

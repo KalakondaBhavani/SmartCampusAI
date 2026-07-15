@@ -1,0 +1,62 @@
+[
+    {
+        "timestamp": "2026-07-15T10:19:38.507105",
+        "username": "Bhavani Kalakonda",
+        "action": "AI Query",
+        "details": "Question: have i get the placements..."
+    },
+    {
+        "timestamp": "2026-07-15T10:18:01.674113",
+        "username": "Bhavani Kalakonda",
+        "action": "Login",
+        "details": "User logged in successfully"
+    },
+    {
+        "timestamp": "2026-07-15T10:17:52.320974",
+        "username": "Bhavani Kalakonda",
+        "action": "Registration",
+        "details": "User registered successfully as role: Student"
+    },
+    {
+        "timestamp": "2026-07-15T10:16:25.716839",
+        "username": "system",
+        "action": "Bootstrap Attendance",
+        "details": "Created mock attendance logs for past 5 days"
+    },
+    {
+        "timestamp": "2026-07-15T10:16:25.687613",
+        "username": "system",
+        "action": "Bootstrap Faculty",
+        "details": "Created 5 mock faculty profiles"
+    },
+    {
+        "timestamp": "2026-07-15T10:16:25.665936",
+        "username": "system",
+        "action": "Bootstrap Students",
+        "details": "Created 8 mock student profiles"
+    },
+    {
+        "timestamp": "2026-07-15T10:16:25.639280",
+        "username": "system",
+        "action": "Bootstrap Users",
+        "details": "Default admin, faculty, and student user accounts created"
+    },
+    {
+        "timestamp": "2026-07-15T10:16:25.615435",
+        "username": "student",
+        "action": "Registration",
+        "details": "User registered successfully as role: Student"
+    },
+    {
+        "timestamp": "2026-07-15T10:16:25.398085",
+        "username": "faculty",
+        "action": "Registration",
+        "details": "User registered successfully as role: Faculty"
+    },
+    {
+        "timestamp": "2026-07-15T10:16:25.122246",
+        "username": "admin",
+        "action": "Registration",
+        "details": "User registered successfully as role: Admin"
+    }
+]

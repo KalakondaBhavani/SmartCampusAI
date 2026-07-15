@@ -1,0 +1,7 @@
+{
+    "app_name": "SmartCampusAI",
+    "academic_year": "2026-2027",
+    "allow_registration": true,
+    "theme": "Antigravity Theme",
+    "ai_model": "Gemini 1.5 Flash"
+}

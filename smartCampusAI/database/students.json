@@ -1,0 +1,66 @@
+[
+    {
+        "id": "STU101",
+        "name": "Alice Johnson",
+        "email": "alice.j@smartcampus.edu",
+        "department": "Computer Science",
+        "enrollment_year": 2023,
+        "status": "Active"
+    },
+    {
+        "id": "STU102",
+        "name": "Bob Smith",
+        "email": "bob.s@smartcampus.edu",
+        "department": "Information Technology",
+        "enrollment_year": 2023,
+        "status": "Active"
+    },
+    {
+        "id": "STU103",
+        "name": "Charlie Brown",
+        "email": "charlie.b@smartcampus.edu",
+        "department": "Electronics",
+        "enrollment_year": 2024,
+        "status": "Active"
+    },
+    {
+        "id": "STU104",
+        "name": "Diana Prince",
+        "email": "diana.p@smartcampus.edu",
+        "department": "Computer Science",
+        "enrollment_year": 2022,
+        "status": "Active"
+    },
+    {
+        "id": "STU105",
+        "name": "Ethan Hunt",
+        "email": "ethan.h@smartcampus.edu",
+        "department": "Mechanical",
+        "enrollment_year": 2024,
+        "status": "Active"
+    },
+    {
+        "id": "STU106",
+        "name": "Fiona Gallagher",
+        "email": "fiona.g@smartcampus.edu",
+        "department": "Business Administration",
+        "enrollment_year": 2023,
+        "status": "Suspended"
+    },
+    {
+        "id": "STU107",
+        "name": "George Cooper",
+        "email": "george.c@smartcampus.edu",
+        "department": "Electronics",
+        "enrollment_year": 2024,
+        "status": "Active"
+    },
+    {
+        "id": "STU108",
+        "name": "Hannah Abbott",
+        "email": "hannah.a@smartcampus.edu",
+        "department": "Computer Science",
+        "enrollment_year": 2025,
+        "status": "Active"
+    }
+]

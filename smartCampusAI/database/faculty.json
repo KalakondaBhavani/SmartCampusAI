@@ -1,0 +1,42 @@
+[
+    {
+        "id": "FAC201",
+        "name": "Dr. Robert Chen",
+        "email": "r.chen@smartcampus.edu",
+        "department": "Computer Science",
+        "designation": "Professor & Head",
+        "status": "Active"
+    },
+    {
+        "id": "FAC202",
+        "name": "Dr. Sarah Jenkins",
+        "email": "s.jenkins@smartcampus.edu",
+        "department": "Information Technology",
+        "designation": "Associate Professor",
+        "status": "Active"
+    },
+    {
+        "id": "FAC203",
+        "name": "Prof. Alan Turing",
+        "email": "a.turing@smartcampus.edu",
+        "department": "Computer Science",
+        "designation": "Professor Emeritus",
+        "status": "Active"
+    },
+    {
+        "id": "FAC204",
+        "name": "Dr. Grace Hopper",
+        "email": "g.hopper@smartcampus.edu",
+        "department": "Information Technology",
+        "designation": "Professor",
+        "status": "Active"
+    },
+    {
+        "id": "FAC205",
+        "name": "Dr. Richard Feynman",
+        "email": "r.feynman@smartcampus.edu",
+        "department": "Mechanical",
+        "designation": "Associate Professor",
+        "status": "Active"
+    }
+]
